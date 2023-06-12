@@ -6,4 +6,4 @@ Task 1
 
 Task 2
 
-![ Alt text](gif.gif) 
+![ Alt text]([gif](Screencast%20from%2006-11-2023%2008_05_56%20PM.gif) 
